@@ -1,5 +1,5 @@
 define( [
-  "./bin/chailatte"
+  "./dist/chailatte"
   ], function( chailatte ) {
     return chailatte
  } )
