@@ -1,7 +1,1 @@
-define( [
-  "./dist/chailatte"
-  ], function( chailatte ) {
-  
-    return chailatte
-  
- } )
+module.exports = require("./dist/chailatte.js")
