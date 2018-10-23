@@ -14,6 +14,4 @@ class object {
   };
 };
 
-define([], function(name) {
-  return new object(name);
-};
+module.exports = object
